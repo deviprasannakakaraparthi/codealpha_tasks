@@ -1,0 +1,1 @@
+This project predicts whether a passenger survived the Titanic disaster based on various features such as age, gender, ticket class, and more. It uses machine learning models trained on the Titanic dataset to classify passengers as survivors or non-survivors.
